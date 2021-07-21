@@ -9,3 +9,6 @@
 业务指标 https://github.com/hunt-up/blog/issues/5
 
 **读书思考**
+
+《微习惯》 https://github.com/hunt-up/blog/issues/6
+
