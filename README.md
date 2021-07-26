@@ -23,3 +23,7 @@ pyspark相关 https://github.com/hunt-up/blog/issues/9
 python实用代码段 https://github.com/hunt-up/blog/issues/10
 
 shell实用代码段 https://github.com/hunt-up/blog/issues/11
+
+pandas相关 https://github.com/hunt-up/blog/issues/12
+
+excel相关 https://github.com/hunt-up/blog/issues/13
