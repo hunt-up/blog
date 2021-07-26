@@ -20,4 +20,6 @@
 
 pyspark相关 https://github.com/hunt-up/blog/issues/9
 
-python有用代码段 https://github.com/hunt-up/blog/issues/10
+python实用代码段 https://github.com/hunt-up/blog/issues/10
+
+shell实用代码段 https://github.com/hunt-up/blog/issues/11
