@@ -18,12 +18,16 @@
 
 正则表达式 https://github.com/hunt-up/blog/issues/8
 
-pyspark相关 https://github.com/hunt-up/blog/issues/9
+pyspark实用代码段 https://github.com/hunt-up/blog/issues/9
 
 python实用代码段 https://github.com/hunt-up/blog/issues/10
 
+sql实用代码段 https://github.com/hunt-up/blog/issues/14
+
 shell实用代码段 https://github.com/hunt-up/blog/issues/11
 
-pandas相关 https://github.com/hunt-up/blog/issues/12
+pandas实用代码段 https://github.com/hunt-up/blog/issues/12
 
 excel相关 https://github.com/hunt-up/blog/issues/13
+
+
