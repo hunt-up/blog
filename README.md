@@ -38,6 +38,6 @@ leetcode刷题 https://github.com/hunt-up/blog/issues/14
 
 **其他**
 
-财务自由计划
+财务自由计划 https://github.com/hunt-up/blog/issues/4
 
 
