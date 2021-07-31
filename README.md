@@ -36,4 +36,8 @@ excel相关 https://github.com/hunt-up/blog/issues/13
 
 leetcode刷题 https://github.com/hunt-up/blog/issues/14
 
+**其他**
+
+财务自由计划
+
 
