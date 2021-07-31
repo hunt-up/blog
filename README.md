@@ -14,6 +14,8 @@
 
 《非暴力沟通》 https://github.com/hunt-up/blog/issues/7
 
+《蛤蟆先生去看心理医生》
+
 《原则》
 
 《随机漫步的傻瓜》
