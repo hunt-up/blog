@@ -20,6 +20,8 @@
 
 《随机漫步的傻瓜》
 
+《投资者应该具备的思维方式》
+
 **具体技术**
 
 正则表达式 https://github.com/hunt-up/blog/issues/8
